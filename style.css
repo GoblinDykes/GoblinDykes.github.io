@@ -11,7 +11,7 @@ height:100%;
 
 .container {
 	position: absolute;
-	top: 25%;
+	top: 15%;
 	left:50%;
 	transform: translate(-50%,-50%);
 	font-family: fantasy;
@@ -21,7 +21,7 @@ height:100%;
 button {
 
 	position: absolute;
-	top: 72%;
+	top: 79%;
 	left:46%;
 	transition: all 1s;
 	
